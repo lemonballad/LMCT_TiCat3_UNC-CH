@@ -1,4 +1,5 @@
 # Project Name: Ligand-to-Metal Charge-Transfer dynamics in TiCat3
+![TiCat3_2_16_bold](https://github.com/lemonballad/LMCT_TiCat3_UNC-CH/assets/42358343/843c63c1-d769-4332-8e06-28bf53e890ea)
 
 This repository contains code for a project that leveraged experimental and synthetic/simulated data to elucidate the charge transfer dynamics of a small molecule meant to be a toy model for molecule-semiconductor interfaces. The code is provided in two versions: MATLAB and Python.
 
